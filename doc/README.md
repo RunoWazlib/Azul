@@ -1,6 +1,5 @@
 Title: Azul
-Description:
-This software is a digital re-creation of Azul by Michael Kiesling and attempts to reconcile the physical board game with the accessibility of the digital world.
+Description: This software is a digital re-creation of Azul by Michael Kiesling and attempts to reconcile the physical board game with the accessibility of the digital world.
 To achieve this goal the software utilizes Django, a high-level python web framework to develop the game. Python, particularly Django, is widely used in backend web-architecture. 
 
 Planned Directions:
